@@ -1,0 +1,4 @@
+/home/jamalay/Dzhamalay/zachet/zachet_2/src/build/CMakeFiles/sum.dir
+/home/jamalay/Dzhamalay/zachet/zachet_2/src/build/CMakeFiles/B.dir
+/home/jamalay/Dzhamalay/zachet/zachet_2/src/build/CMakeFiles/edit_cache.dir
+/home/jamalay/Dzhamalay/zachet/zachet_2/src/build/CMakeFiles/rebuild_cache.dir

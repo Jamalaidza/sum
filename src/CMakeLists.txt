@@ -1,0 +1,5 @@
+add_library(sum sum.cpp)
+add_library(B B.cpp)
+target_include_directories(sum PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
+target_include_directories(B PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
+target_link_libraries(sum B)
